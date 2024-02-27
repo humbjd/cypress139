@@ -24,7 +24,7 @@ Conhecimentos em Lógica de programação e JavaScript são bem vindos
 1. Clone este repositório para sua máquina local:
 
    ```bash
-   [git clone https://github.com/iterasys/cypress-automation-course.git](https://github.com/humbjd/cypress139.git)
+   https://github.com/humbjd/cypress139.git
    ```
 
 2. Siga as instruções de instalação e configuração fornecidas no material do curso.
